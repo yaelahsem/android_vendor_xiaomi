@@ -830,8 +830,8 @@ PRODUCT_PACKAGES += \
     CNEService \
     WfdService \
     dpmserviceapp \
-    PowerOffAlarm \
     TimeService \
+    PowerOffAlarm \
     ims \
     qcrilmsgtunnel \
     QtiTelephonyServicelibrary \
@@ -858,7 +858,6 @@ PRODUCT_PACKAGES += \
     uimlpalibrary \
     uimremotesimlocklibrary \
     vendor.qti.data.factory-V1.0-java \
-    vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.hardware.data.dynamicdds-V1.0-java \
     vendor.qti.hardware.data.latency-V1.0-java \
     vendor.qti.hardware.data.qmi-V1.0-java \
