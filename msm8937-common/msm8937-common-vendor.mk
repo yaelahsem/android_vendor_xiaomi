@@ -810,6 +810,7 @@ PRODUCT_PACKAGES += \
     libantradio \
     vendor.qti.hardware.fm@1.0 \
     libaudio_log_utils \
+    libgpustats \
     libloc_api_v02 \
     libsdm-disp-vndapis \
     libthermalclient \
