@@ -6,4 +6,4 @@
 
 service vendor.tftp_server /vendor/bin/tftp_server
    class core
-   user root
+   user root 
